@@ -15,6 +15,6 @@ Pour obtenir le .jar -> ant jar depuis la racine du projet où le build.xml est 
 
 Pour la javadoc, compiler et nettoyer ces derniers :
 
--> ant javadoc
--> ant compile
--> ant clean
+- ant javadoc
+- ant compile
+- ant clean
