@@ -13,6 +13,8 @@ Pour jouer au jeu :
 
 Pour obtenir le .jar -> ant jar depuis la racine du projet où le build.xml est situé.
 
+Pour trouver comment fonctionne le jeu et comment y jouer, vous pouvez accéder au user.pdf dans le dossier docs/
+
 Pour la javadoc, compiler et nettoyer ces derniers :
 
 - ant javadoc
